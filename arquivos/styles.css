@@ -83,10 +83,6 @@ section {
     justify-content: center;
 }
 
-img.borda1, img.borda2 {
-    height: 400px;
-}
-
 div.hist {
     margin: 0 100px;
     background-color: rgb(245, 207, 213);
@@ -148,24 +144,6 @@ p.app {
         padding: 20px;
         width: 80%;
     }
-}
-
-.contact-info {
-    margin: 20px;
-    padding: 20px;
-    background-color: #ffffff;
-    border-radius: 10px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-.contact-info p {
-    margin-bottom: 10px;
-}
-.contact-info a {
-    color: #007bff;
-    text-decoration: none;
-}
-.contact-info a:hover {
-    text-decoration: underline;
 }
 
 /* Estilos do Footer */
