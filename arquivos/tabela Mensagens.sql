@@ -1,3 +1,7 @@
+Create DATABASE Formularioo;
+
+USE Formularioo;
+
 Create Table Mensagens(
     id INT PRIMARY KEY AUTO_INCREMENT,
     Nome Varchar (50),
